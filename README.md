@@ -11,7 +11,9 @@ A password generator that provides the user a random combination of generated up
 
 ## Languages 
 -HTML
+
 -CSS
+
 -Javascript
 
 
