@@ -1,8 +1,18 @@
 # Password Generator
 
+
+## URL
+[Password Generator](https://donnyandre29.github.io/Pass-Word_Gen/)
+
 ## Description
 
 A password generator that provides the user a random combination of generated uppercase, lowercase, numbers, and special letters that are between 8-128 characters.
+
+
+## Languages 
+-HTML
+-CSS
+-Javascript
 
 
 ## User Story
